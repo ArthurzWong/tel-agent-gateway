@@ -1,0 +1,23 @@
+{
+  "name": "tel-agent-gateway",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Open-source gateway that connects any phone line (plus SMS, email and web chat) to any LLM. Serverless-ready for Vercel.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@vercel/postgres": "^0.10.0",
+    "next": "^16.3.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.1.0",
+    "@types/react-dom": "^19.1.0",
+    "typescript": "^5.7.0"
+  }
+}
