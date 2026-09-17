@@ -12,6 +12,8 @@ control of your data, your recordings, and your privacy.
 > (self-hosted Python/LiveKit stack), re-implemented as a serverless Next.js app that deploys to
 > **Vercel** in one command.
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FArthurzWong%2Ftel-agent-gateway&env=LLM_API_KEY,LLM_BASE_URL,LLM_MODEL,TWILIO_AUTH_TOKEN,HUMAN_FORWARD_NUMBER,ADMIN_TOKEN,POSTGRES_URL)
+
 ---
 
 ## How it works
